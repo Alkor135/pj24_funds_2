@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Локальные пакеты и изображения визуальной проверки
+tests/node_modules/
+tests/previews/
+outputs/RTS_probabilities.xlsx
+outputs/MIX_probabilities.xlsx
+outputs/
